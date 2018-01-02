@@ -20,7 +20,10 @@ The article for this method can be downloaded here: [arXiv:1711.09405](https://a
 5. [View Results](#view-results)
 6. [Build Your Own Dataset](#build-your-own-dataset)
 
-### Installation
+### installation
+
+`$CAFFE_ROOT` is just repository directory.
+
 1. DRBox is written in Caffe with some newly defined layers. So you should prepare nessasary environment for Caffe installation.
 DThen you can get the code:
 ```Shell
